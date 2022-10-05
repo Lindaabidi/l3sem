@@ -1,2 +1,2 @@
 # l3sem
-ceci est projet AI
+ceci est un  projet AI 2022
